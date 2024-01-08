@@ -1,2 +1,1 @@
-# git_class
-my first dir
+# git_class my first dir
